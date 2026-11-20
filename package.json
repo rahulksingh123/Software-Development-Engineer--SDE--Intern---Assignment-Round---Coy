@@ -1,0 +1,1 @@
+{"name":"coy-discover-assignment","private":true,"scripts":{"dev":"concurrently \"npm run dev -w server\" \"npm run dev -w client\"","test":"npm test -w server","build":"npm run build -w client","seed":"npm run seed -w server"},"workspaces":["client","server"],"devDependencies":{"concurrently":"^9.1.2"},"engines":{"node":">=20"}}

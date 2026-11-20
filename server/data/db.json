@@ -1,0 +1,605 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aarohi",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Collecting little moments and good playlists.",
+      "city": "Delhi",
+      "interests": [
+        "Coffee",
+        "Design",
+        "Art"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 2,
+      "name": "Ishita",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=85",
+      "bio": "Always down for a spontaneous coffee run.",
+      "city": "Mumbai",
+      "interests": [
+        "Live music",
+        "Dogs",
+        "Movies"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 3,
+      "name": "Meera",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
+      "bio": "Looking for someone to laugh at bad jokes with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Hiking",
+        "Travel",
+        "Fitness"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 4,
+      "name": "Ananya",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=900&q=85",
+      "bio": "Sunsets, street food, and long conversations.",
+      "city": "Pune",
+      "interests": [
+        "Photography",
+        "Cooking",
+        "Gaming"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 5,
+      "name": "Kiara",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&w=900&q=85",
+      "bio": "Big dreams, small adventures, excellent chai.",
+      "city": "Hyderabad",
+      "interests": [
+        "Books",
+        "Art",
+        "Dancing"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 6,
+      "name": "Riya",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+      "bio": "A weekend explorer with a soft spot for books.",
+      "city": "Jaipur",
+      "interests": [
+        "Design",
+        "Movies",
+        "Badminton"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 7,
+      "name": "Sana",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=85",
+      "bio": "Creative mind, curious heart, terrible singer.",
+      "city": "Chandigarh",
+      "interests": [
+        "Dogs",
+        "Fitness",
+        "Poetry"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 8,
+      "name": "Tara",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Can talk for hours about movies and music.",
+      "city": "Lucknow",
+      "interests": [
+        "Travel",
+        "Gaming",
+        "Coffee"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 9,
+      "name": "Naina",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Collecting little moments and good playlists.",
+      "city": "Delhi",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Live music"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 10,
+      "name": "Avni",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
+      "bio": "Always down for a spontaneous coffee run.",
+      "city": "Mumbai",
+      "interests": [
+        "Art",
+        "Badminton",
+        "Hiking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 11,
+      "name": "Diya",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Looking for someone to laugh at bad jokes with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Movies",
+        "Poetry",
+        "Photography"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 12,
+      "name": "Myra",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=900&q=85",
+      "bio": "Sunsets, street food, and long conversations.",
+      "city": "Pune",
+      "interests": [
+        "Fitness",
+        "Coffee",
+        "Books"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 13,
+      "name": "Zoya",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Big dreams, small adventures, excellent chai.",
+      "city": "Hyderabad",
+      "interests": [
+        "Gaming",
+        "Live music",
+        "Design"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 14,
+      "name": "Kavya",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=85",
+      "bio": "A weekend explorer with a soft spot for books.",
+      "city": "Jaipur",
+      "interests": [
+        "Dancing",
+        "Hiking",
+        "Dogs"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 15,
+      "name": "Sia",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
+      "bio": "Creative mind, curious heart, terrible singer.",
+      "city": "Chandigarh",
+      "interests": [
+        "Badminton",
+        "Photography",
+        "Travel"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 16,
+      "name": "Aditi",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=900&q=85",
+      "bio": "Can talk for hours about movies and music.",
+      "city": "Lucknow",
+      "interests": [
+        "Poetry",
+        "Books",
+        "Cooking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 17,
+      "name": "Ira",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&w=900&q=85",
+      "bio": "Collecting little moments and good playlists.",
+      "city": "Delhi",
+      "interests": [
+        "Coffee",
+        "Design",
+        "Art"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 18,
+      "name": "Pihu",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+      "bio": "Always down for a spontaneous coffee run.",
+      "city": "Mumbai",
+      "interests": [
+        "Live music",
+        "Dogs",
+        "Movies"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 19,
+      "name": "Nisha",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=85",
+      "bio": "Looking for someone to laugh at bad jokes with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Hiking",
+        "Travel",
+        "Fitness"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 20,
+      "name": "Anika",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Sunsets, street food, and long conversations.",
+      "city": "Pune",
+      "interests": [
+        "Photography",
+        "Cooking",
+        "Gaming"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 21,
+      "name": "Vanya",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Big dreams, small adventures, excellent chai.",
+      "city": "Hyderabad",
+      "interests": [
+        "Books",
+        "Art",
+        "Dancing"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 22,
+      "name": "Rhea",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
+      "bio": "A weekend explorer with a soft spot for books.",
+      "city": "Jaipur",
+      "interests": [
+        "Design",
+        "Movies",
+        "Badminton"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 23,
+      "name": "Simran",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Creative mind, curious heart, terrible singer.",
+      "city": "Chandigarh",
+      "interests": [
+        "Dogs",
+        "Fitness",
+        "Poetry"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 24,
+      "name": "Jiya",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=900&q=85",
+      "bio": "Can talk for hours about movies and music.",
+      "city": "Lucknow",
+      "interests": [
+        "Travel",
+        "Gaming",
+        "Coffee"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 25,
+      "name": "Navya",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Collecting little moments and good playlists.",
+      "city": "Delhi",
+      "interests": [
+        "Cooking",
+        "Dancing",
+        "Live music"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 26,
+      "name": "Prisha",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=85",
+      "bio": "Always down for a spontaneous coffee run.",
+      "city": "Mumbai",
+      "interests": [
+        "Art",
+        "Badminton",
+        "Hiking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 27,
+      "name": "Mahi",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
+      "bio": "Looking for someone to laugh at bad jokes with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Movies",
+        "Poetry",
+        "Photography"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 28,
+      "name": "Aisha",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=900&q=85",
+      "bio": "Sunsets, street food, and long conversations.",
+      "city": "Pune",
+      "interests": [
+        "Fitness",
+        "Coffee",
+        "Books"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 29,
+      "name": "Tanvi",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&w=900&q=85",
+      "bio": "Big dreams, small adventures, excellent chai.",
+      "city": "Hyderabad",
+      "interests": [
+        "Gaming",
+        "Live music",
+        "Design"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 30,
+      "name": "Suhani",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+      "bio": "A weekend explorer with a soft spot for books.",
+      "city": "Jaipur",
+      "interests": [
+        "Dancing",
+        "Hiking",
+        "Dogs"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 31,
+      "name": "Esha",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=85",
+      "bio": "Creative mind, curious heart, terrible singer.",
+      "city": "Chandigarh",
+      "interests": [
+        "Badminton",
+        "Photography",
+        "Travel"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 32,
+      "name": "Mira",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+      "bio": "Can talk for hours about movies and music.",
+      "city": "Lucknow",
+      "interests": [
+        "Poetry",
+        "Books",
+        "Cooking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 33,
+      "name": "Alia",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Collecting little moments and good playlists.",
+      "city": "Delhi",
+      "interests": [
+        "Coffee",
+        "Design",
+        "Art"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 34,
+      "name": "Ruhi",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
+      "bio": "Always down for a spontaneous coffee run.",
+      "city": "Mumbai",
+      "interests": [
+        "Live music",
+        "Dogs",
+        "Movies"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 35,
+      "name": "Anvi",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=85",
+      "bio": "Looking for someone to laugh at bad jokes with.",
+      "city": "Bengaluru",
+      "interests": [
+        "Hiking",
+        "Travel",
+        "Fitness"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 36,
+      "name": "Aanya",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=900&q=85",
+      "bio": "Sunsets, street food, and long conversations.",
+      "city": "Pune",
+      "interests": [
+        "Photography",
+        "Cooking",
+        "Gaming"
+      ],
+      "likedMe": false
+    }
+  ],
+  "swipes": [
+    {
+      "profileId": 1,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:57:58.695Z"
+    },
+    {
+      "profileId": 2,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:58:05.223Z"
+    },
+    {
+      "profileId": 3,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:58:08.431Z"
+    },
+    {
+      "profileId": 4,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:58:12.878Z"
+    },
+    {
+      "profileId": 5,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:58:19.709Z"
+    },
+    {
+      "profileId": 6,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:58:24.064Z"
+    },
+    {
+      "profileId": 7,
+      "direction": "like",
+      "createdAt": "2026-11-20T10:58:32.774Z"
+    },
+    {
+      "profileId": 8,
+      "direction": "like",
+      "createdAt": "2026-11-20T10:58:36.567Z"
+    },
+    {
+      "profileId": 9,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:04.305Z"
+    },
+    {
+      "profileId": 10,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:09.534Z"
+    },
+    {
+      "profileId": 11,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:12.847Z"
+    },
+    {
+      "profileId": 12,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:28.662Z"
+    },
+    {
+      "profileId": 13,
+      "direction": "like",
+      "createdAt": "2026-11-20T10:59:32.884Z"
+    },
+    {
+      "profileId": 14,
+      "direction": "like",
+      "createdAt": "2026-11-20T10:59:37.261Z"
+    },
+    {
+      "profileId": 15,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:42.827Z"
+    },
+    {
+      "profileId": 16,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:45.731Z"
+    },
+    {
+      "profileId": 17,
+      "direction": "like",
+      "createdAt": "2026-11-20T10:59:52.103Z"
+    },
+    {
+      "profileId": 18,
+      "direction": "pass",
+      "createdAt": "2026-11-20T10:59:54.966Z"
+    },
+    {
+      "profileId": 19,
+      "direction": "pass",
+      "createdAt": "2026-11-20T11:00:04.411Z"
+    }
+  ]
+}
